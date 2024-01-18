@@ -1,0 +1,4 @@
+name: Alter in Container Compilation
+type: module
+description: Demonstrate an alter in an extended container compiler pass.
+core_version_requirement: ^10
